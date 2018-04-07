@@ -24,7 +24,7 @@ TABLE OF CONTENTS
 Color Scheme =======*/
 
 p,li{
-  font-family: 'Dosis', sans-serif !important;
+  font-family: 'Dosis', 'Georgia',sans-serif !important;
 }
 
 input[type='submit'], .nav li.current a, .speaker-contacts > .contact:hover, 
