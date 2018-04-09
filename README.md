@@ -1,4 +1,4 @@
-Function
+Techelon-Csi
 ========
 
-A Function Landing Page 
+Website for annual tech fest of CSI.
