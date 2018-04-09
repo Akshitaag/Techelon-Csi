@@ -1,4 +1,4 @@
 Techelon-Csi
 ========
 
-Website for annual tech fest of CSI.
+Website for annual tech fest of CSI NSIT.
